@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+}
+
+/* NavBar CSS */
+
+.navbar-blackwool{
+    background-color: rgb(17, 16, 16);
+    color: white;
+}
+
+.buttom {
+  background-color: rgb(17, 16, 16);  
+  color: white;              
+}
+
+.logo{
+    color: white;
+
+}
+.baixar{
+    color: white;
+
+}
+
+/* Cartões de notícias CSS */
+
+.produtos div {
+    background-color: rgb(192, 199, 206);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border: solid 2px black;
+    padding: 30px;
+    border-radius: 20px;
+    width: 200px;
+    height: 370px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+}
+.produtos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 66px;
+}
+.produtos-menu div{
+    background-color: rgb(192, 199, 206);
+    text-align: center;
+    color: white;
+    border: solid 4px black;
+    display: block;
+    padding: 30px;
+    border-radius: 20px;
+    width: 300px;
+    height: 370px;
+}
+
+.produtos img{
+    background-color: #000000;
+    background-size: cover;
+    border-radius: 20px;
+    height: 200px;
+    width: auto;
+}
+
+
+
+
