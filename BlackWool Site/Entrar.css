@@ -1,0 +1,28 @@
+/* Estrutura Padrão*/
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* NavBar do site, padrão */
+
+.navbar-blackwool{
+    background-color: rgb(17, 16, 16);
+    color: white;
+}
+
+.buttom {
+  background-color: rgb(17, 16, 16);  
+  color: white;              
+}
+
+.logo{
+    color: white;
+
+}
+.baixar{
+    color: white;
+
+}

@@ -1,0 +1,65 @@
+    /* Estrutura Básica */
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* NavBar do site, padrão */
+
+.navbar-blackwool{
+    background-color: rgb(17, 16, 16);
+    color: white;
+}
+
+.buttom {
+  background-color: rgb(17, 16, 16);  
+  color: white;              
+}
+
+.logo{
+    color: white;
+
+}
+.baixar{
+    color: white;
+
+}
+
+    /* Texto Descritivo */
+
+.conteudo {
+  display: flex;
+  justify-content: space-between;  
+  align-items: center;            
+  gap: 40px;                       
+  padding: 20px;
+}
+
+.texto-descritivo{
+    text-align: left;
+    padding-right: 20px;
+    padding-left: 120px;
+    padding-right: 700px;
+    padding-top: 300px;
+
+}
+.texto-descritivo h5{
+    border-bottom: 30px;
+    text-wrap: 20px;
+}
+
+    /*Carrosel */
+
+.slide{
+    padding-left: 750px;
+    padding-right: 50px;
+    float: right;
+    display: flex;                   
+    overflow: hidden;                
+
+}
+.active img {
+    padding-bottom: 200px;
+}
+
